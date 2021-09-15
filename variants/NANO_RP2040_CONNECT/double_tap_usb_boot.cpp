@@ -5,6 +5,7 @@ extern "C" {
 }
 #include "macros.h"
 #include "pins_arduino.h"
+#include "pinDefinitions.h"
 
 // Allow user override of the LED mask
 #ifndef USB_BOOT_LED_ACTIVITY_MASK
